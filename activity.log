@@ -517,3 +517,5 @@
 2025-08-16 18:55:00 | WARN | repo=nnn | action=commit
 2025-02-05 21:20:00 | DEBUG | repo=nnn | action=commit
 2025-07-14 12:32:00 | WARN | repo=nnn | action=commit
+2025-05-25 18:57:00 | DEBUG | repo=nnn | action=edit | files=5
+2025-02-03 14:01:00 | WARN | repo=nnn | action=commit
