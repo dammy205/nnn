@@ -512,3 +512,5 @@
 2025-11-12 13:02:00 | WARN | repo=nnn | action=commit
 2025-05-01 08:24:00 | WARN | repo=nnn | action=commit
 2025-10-13 16:00:00 | WARN | repo=nnn | action=commit
+2025-08-24 15:37:00 | DEBUG | repo=nnn | action=edit | files=4
+2025-12-23 19:53:00 | DEBUG | repo=nnn | action=commit
